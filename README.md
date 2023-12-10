@@ -23,6 +23,7 @@ Extra Links to learn these libraries better:
 [Flask Tutorial on GeeksforGeeks](https://www.geeksforgeeks.org/flask-tutorial/)
 
 Here are the output screenshots: 
+
 **Login Page**
 
 ![Screenshot 2023-12-10 at 2 46 32 PM](https://github.com/RAPZ0D/Flask-Python/assets/100001521/f153396d-e0cb-4d5c-8180-c2873ea79a56)
