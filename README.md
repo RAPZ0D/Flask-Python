@@ -13,10 +13,12 @@ In this file I have created a simple login page. This Login page consists of:
 So basically for this project I have used Flask library to improve my knowledge with this library, I have also used the Sqllite3 library to store the data of email and password in the database. For more information about the library, you can view it by clicking the link below. 
 
 [Flask Documentation](https://flask.palletsprojects.com/en/3.0.x/)
+
 [SQLite Website](https://www.sqlite.org/index.html)
 
 Extra Links to learn these libraries better:
 [Python SQLite3 Documentation](https://docs.python.org/3/library/sqlite3.html)
+
 [Flask Tutorial on GeeksforGeeks](https://www.geeksforgeeks.org/flask-tutorial/)
 
 Here are the output screenshots: 
